@@ -1,5 +1,5 @@
 # MLDM-DataMining-ECG-2025
-# MLDM Data Mining Project 2025
+MLDM Data Mining Project 2025
 ## Setup
 1. Clone: `git clone <link>`
 2. Install R packages: `install.packages(c("RPostgreSQL", "randomForest", "cluster", "ggplot2"))`
